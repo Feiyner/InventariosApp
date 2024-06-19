@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\feiyn\\Documents\\2024\\InventariosApp.Services\\InventariosApp.Services.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\feiyn\\Documents\\2024\\InventariosApp.Data\\InventariosApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\feiyn\\Documents\\2024\\InventariosApp.Data\\InventariosApp.Data.csproj",
+        "projectName": "InventariosApp.Data",
+        "projectPath": "c:\\Users\\feiyn\\Documents\\2024\\InventariosApp.Data\\InventariosApp.Data.csproj",
+        "packagesPath": "C:\\Users\\feiyn\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\feiyn\\Documents\\2024\\InventariosApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\feiyn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.sqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\feiyn\\Documents\\2024\\InventariosApp.Services\\InventariosApp.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\feiyn\\Documents\\2024\\InventariosApp.Services\\InventariosApp.Services.csproj",
+        "projectName": "InventariosApp.Services",
+        "projectPath": "c:\\Users\\feiyn\\Documents\\2024\\InventariosApp.Services\\InventariosApp.Services.csproj",
+        "packagesPath": "C:\\Users\\feiyn\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\feiyn\\Documents\\2024\\InventariosApp.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\feiyn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\Users\\feiyn\\Documents\\2024\\InventariosApp.Data\\InventariosApp.Data.csproj": {
+                "projectPath": "c:\\Users\\feiyn\\Documents\\2024\\InventariosApp.Data\\InventariosApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

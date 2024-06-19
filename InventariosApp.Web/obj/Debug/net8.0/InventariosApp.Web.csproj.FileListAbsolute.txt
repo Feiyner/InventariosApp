@@ -1,0 +1,8 @@
+C:\Users\feiyn\Documents\2024\InventariosApp.Web\obj\Debug\net8.0\InventariosApp.Web.csproj.AssemblyReference.cache
+C:\Users\feiyn\Documents\2024\InventariosApp.Web\obj\Debug\net8.0\InventariosApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feiyn\Documents\2024\InventariosApp.Web\obj\Debug\net8.0\InventariosApp.Web.AssemblyInfoInputs.cache
+C:\Users\feiyn\Documents\2024\InventariosApp.Web\obj\Debug\net8.0\InventariosApp.Web.AssemblyInfo.cs
+C:\Users\feiyn\Documents\2024\InventariosApp.Web\obj\Debug\net8.0\InventariosApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\feiyn\Documents\2024\InventariosApp.Web\obj\Debug\net8.0\InventariosApp.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\feiyn\Documents\2024\InventariosApp.Web\obj\Debug\net8.0\InventariosApp.Web.RazorAssemblyInfo.cache
+C:\Users\feiyn\Documents\2024\InventariosApp.Web\obj\Debug\net8.0\InventariosApp.Web.RazorAssemblyInfo.cs

@@ -1,0 +1,57 @@
+@model IEnumerable<InventariosApp.Data.Inventario>
+
+<h2>Productos</h2>
+
+<form method="get">
+    <label for="fechaInicio">Fecha Inicio:</label>
+    <input type="date" id="fechaInicio" name="fechaInicio" />
+    
+    <label for="fechaFin">Fecha Fin:</label>
+    <input type="date" id="fechaFin" name="fechaFin" />
+    
+    <label for="tipoMovimiento">Tipo Movimiento:</label>
+    <input type="text" id="tipoMovimiento" name="tipoMovimiento" />
+    
+    <label for="nroDocumento">Nro. Documento:</label>
+    <input type="text" id="nroDocumento" name="nroDocumento" />
+    
+    <button type="submit">Ejecutar</button>
+</form>
+
+<table>
+    <thead>
+        <tr>
+            <th>ProductId</th>
+            <th>ProductPrice</th>
+            <th>ProductName</th>
+            <th>Motivo</th>
+            <th>Cantidad</th>
+            <th>Proveedor</th>
+            <th>FechaTransaccion</th>
+            <th>PeriodoCerrado</th>
+            <th>TipoMovimiento</th>
+            <th>NroDocumento</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductId</td>
+                <td>@item.ProductPrice</td>
+                <td>@item.ProductName</td>
+                <td>@item.Motivo</td>
+                <td>@item.Cantidad</td>
+                <td>@item.Proveedor</td>
+                <td>@item.FechaTransaccion</td>
+                <td>@item.PeriodoCerrado</td>
+                <td>@item.TipoMovimiento</td>
+                <td>@item.NroDocumento</td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = item.ProductId })">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

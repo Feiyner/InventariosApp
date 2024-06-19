@@ -1,0 +1,15 @@
+C:\Users\feiyn\Documents\2024\InventariosApp.Services\bin\Debug\net8.0\InventariosApp.Services.deps.json
+C:\Users\feiyn\Documents\2024\InventariosApp.Services\bin\Debug\net8.0\InventariosApp.Services.dll
+C:\Users\feiyn\Documents\2024\InventariosApp.Services\bin\Debug\net8.0\InventariosApp.Services.pdb
+C:\Users\feiyn\Documents\2024\InventariosApp.Services\bin\Debug\net8.0\InventariosApp.Data.dll
+C:\Users\feiyn\Documents\2024\InventariosApp.Services\bin\Debug\net8.0\InventariosApp.Data.pdb
+C:\Users\feiyn\Documents\2024\InventariosApp.Services\obj\Debug\net8.0\InventariosApp.Services.csproj.AssemblyReference.cache
+C:\Users\feiyn\Documents\2024\InventariosApp.Services\obj\Debug\net8.0\InventariosApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feiyn\Documents\2024\InventariosApp.Services\obj\Debug\net8.0\InventariosApp.Services.AssemblyInfoInputs.cache
+C:\Users\feiyn\Documents\2024\InventariosApp.Services\obj\Debug\net8.0\InventariosApp.Services.AssemblyInfo.cs
+C:\Users\feiyn\Documents\2024\InventariosApp.Services\obj\Debug\net8.0\InventariosApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\feiyn\Documents\2024\InventariosApp.Services\obj\Debug\net8.0\Inventar.E36FF13F.Up2Date
+C:\Users\feiyn\Documents\2024\InventariosApp.Services\obj\Debug\net8.0\InventariosApp.Services.dll
+C:\Users\feiyn\Documents\2024\InventariosApp.Services\obj\Debug\net8.0\refint\InventariosApp.Services.dll
+C:\Users\feiyn\Documents\2024\InventariosApp.Services\obj\Debug\net8.0\InventariosApp.Services.pdb
+C:\Users\feiyn\Documents\2024\InventariosApp.Services\obj\Debug\net8.0\ref\InventariosApp.Services.dll
